@@ -1,6 +1,6 @@
 
 
-# Fully Connected Neural Network Experiments
+# Fully Connected Neural Network Lego Dectection
 
 ## Project Overview
 
