@@ -6,12 +6,7 @@
 
 This project involves experimenting with various fully-connected neural network architectures on a provided image dataset using Python and Keras in a Google Colab environment. The primary goal is to achieve the highest possible accuracy on the dataset through different network configurations and hyperparameter tuning. This repository includes code, documentation, and the results of multiple experiments.
 
-## Group Members
 
-- Jibin George (0832593)
-- Jibin Kuruppassery Sebastian (0829897)
-- Kailas Krishnan Radhakrishnan Sudhadevi (0850313)
-- Vishal Ramesh Babu (0832438)
 
 ## Lab Outline
 
