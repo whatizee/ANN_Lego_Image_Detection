@@ -1,6 +1,4 @@
-Here’s a template for a README file that you can include in your GitHub repository for the lab project. Make sure to customize the details as needed:
 
----
 
 # Fully Connected Neural Network Experiments
 
